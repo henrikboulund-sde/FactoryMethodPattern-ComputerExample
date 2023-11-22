@@ -5,6 +5,8 @@ public abstract class Computer {
     public abstract String getHDD();
     public abstract String getCPU();
 
+    public String Test = "Test";
+
     @Override
     public String toString()
     {
